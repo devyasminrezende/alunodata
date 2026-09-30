@@ -1,0 +1,23 @@
+[
+    {
+        "matricula": 1,
+        "nome": "Maria",
+        "idade": 22,
+        "curso": "Engenharia",
+        "cidade": "Rio de Janeiro"
+    },
+    {
+        "matricula": 2,
+        "nome": "",
+        "idade": 25,
+        "curso": "Economia",
+        "cidade": "São Paulo"
+    },
+    {
+        "matricula": 2,
+        "nome": " Ana ",
+        "idade": 21,
+        "curso": " Administração ",
+        "cidade": " Niterói "
+    }
+]
